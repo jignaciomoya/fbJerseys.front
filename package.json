@@ -1,0 +1,26 @@
+{
+    "name": "tienda-camisetas-futbol",
+    "version": "1.0.0",
+    "description": "Tienda de camisetas de fútbol",
+    "main": "main.js",
+    "scripts": {
+      "start": "vite",
+      "build": "vite build"
+    },
+    "keywords": [
+      "tienda",
+      "camisetas",
+      "futbol"
+    ],
+    "author": "Tu nombre",
+    "license": "MIT",
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-react-swc": "^1.0.0",
+      "vite": "^2.7.7"
+    }
+  }
+  
